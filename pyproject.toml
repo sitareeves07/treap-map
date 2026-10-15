@@ -1,6 +1,6 @@
 [project]
 name = "treap-map"
-version = "0.1.0"
+version = "0.1.1"
 description = "A randomized binary search tree using heap-ordered priorities that supports insertion, deletion, split, merge, and ordered statistics in expected logarithmic time."
 requires-python = ">=3.10"
 dependencies = []
